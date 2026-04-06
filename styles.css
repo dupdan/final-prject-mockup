@@ -1,8 +1,6 @@
 h1,h2,ul,li { margin:0; padding: 0;}
 
 
-.main-nav { }
-
 .nav-ul { list-style: none;
     display: flex;
     justify-content: space-evenly;}
@@ -20,3 +18,5 @@ h1,h2,ul,li { margin:0; padding: 0;}
     margin: auto;}
 
 .site-main { padding: 10px;}
+
+
