@@ -20,3 +20,14 @@ h1,h2,ul,li { margin:0; padding: 0;}
 .site-main { padding: 10px;}
 
 
+html { background-color:beige;}
+
+.main-nav { background-color: rgb(115, 57, 57);
+padding: 30px;}
+
+.list-style { color: aliceblue;
+text-decoration: none;}
+
+
+
+
