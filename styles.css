@@ -1,16 +1,23 @@
 h1,h2,ul,li { margin:0; padding: 0;}
 
+html {  font-family: "Fjalla One", sans-serif;
+  font-weight: 400;
+  font-style: normal
+}
 
 .nav-ul { list-style: none;
     display: flex;
     justify-content: space-evenly;}
 
 .wrapper { 
-    max-width: 600px;
+    max-width: 800px;
     margin: auto;
-    padding: 10px;}
+    padding: 10px;
+font-size: x-large;
+text-align: center;
+background-color: white;}
 
-    
+
 .main-header {
     border-radius: 10px 10px 0 0;
     padding: 10px;
@@ -75,7 +82,8 @@ font-family: "Fjalla One", sans-serif;
 background-color: rgb(115, 57, 57);
 padding: 20px;
 color: white;
-text-align: center;}
+text-align: center;border-radius: 10px;
+}
 
 .flex1 { display: flex;
 background-color: rgb(115, 57, 57);
@@ -84,9 +92,10 @@ color: white;
 text-align: center; 
 justify-content: space-evenly;
 list-style: none; font-size: x-large;
-max-width: 300px;
+max-width: 900px;
 align-items: center;
-margin: auto;}
+margin: auto;
+border-radius: 10px;}
 
 
 .home-flex { display: flex;
@@ -94,3 +103,67 @@ background-color:rgb(255, 252, 249);
 padding: 20px;
 justify-content:center;
 text-align: center;}
+
+
+.wrapper-2 { 
+    max-width: 900px;
+    align-items: center;
+    margin:auto;
+    text-align: center;
+    background-color: azure;
+    padding: 20px;
+}
+
+
+
+.hero3 { text-align: center;
+background-image: url("non\ profit.avif");
+min-height: 500px;
+min-width: 500px;
+background-size: cover;
+display: flex;
+align-items: center;
+justify-content: center;
+border-top: 4px solid red;
+border-bottom: 4px solid red;
+letter-spacing: 4px;}
+
+
+
+.wrapper-3 {     max-width: 900px;
+    align-items: center;
+    margin:auto;
+    text-align: center;
+    background-color: azure;
+    padding: 20px;
+}
+
+
+.sub-head { padding-bottom: 20px;}
+
+.sub-list { 
+    max-width:600px;
+    background-color:  rgb(115, 57, 57); 
+margin: auto;
+border-radius: 10px;
+padding: 20px;
+color: white;
+list-style: none;
+text-align: center;}
+
+.link-style { text-decoration:none;
+color: white;
+background-color:rgb(80, 37, 37);
+padding: 5px;
+}
+
+.sub-list-2 {max-width:500px;
+    background-color:  rgb(246, 246, 246); 
+margin: auto;
+border-radius: 10px;
+padding: 20px;
+list-style: none;
+text-align: center; 
+color: black;}
+
+.h1-space { padding: 20px;}
