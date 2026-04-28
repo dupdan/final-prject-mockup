@@ -167,3 +167,19 @@ text-align: center;
 color: black;}
 
 .h1-space { padding: 20px;}
+
+
+.hero3 { text-align: center;
+background-image: url("2Moda-294797-beginner-donations-guide-image1.webp");
+min-height: 500px;
+background-size: cover;
+display: flex;
+align-items: center;
+justify-content: center;
+border-top: 4px solid red;
+border-bottom: 4px solid red;
+letter-spacing: 4px;}
+
+
+.cata-style{ text-align: center;
+font-size: 20px;}
